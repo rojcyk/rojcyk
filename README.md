@@ -27,4 +27,6 @@ _I'm Denis Rojcyk. I'm a product designer who knows how to code a bit. And ever 
 - [iOS Keyboard template](https://www.figma.com/community/file/768726574016795759/iOS-Keyboards)
 - _and more over [@Figma](https://www.figma.com/@rojcyk)_
 
+---
+
 🥰 _If you like what I do, and would like to support me, consider sponsoring me. here on GitHub_
