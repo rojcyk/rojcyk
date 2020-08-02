@@ -29,4 +29,4 @@ _I'm Denis Rojcyk. I'm a product designer who knows how to code a bit. And ever 
 
 ---
 
-🥰 _If you like what I do, and would like to support me, consider sponsoring me. here on GitHub_
+🥰 _If you like what I do, and would like to support me, consider [sponsoring me here on GitHub](https://github.com/sponsors/rojcyk)._
