@@ -10,7 +10,7 @@
 <br />
 <br />
 
-_I'm Denis Rojčyk. I'm a product designer who knows how to code a bit. And ever since I learned to do so, I become obsessed about improving the design / development process._
+_I'm Denis Rojčyk. I'm a product designer who knows how to code a bit. And ever since I learned to do so, I become obsessed about improving the design / development process, so I started writing articles and creating tools for others to use._
 
 
 **Latest articles**
