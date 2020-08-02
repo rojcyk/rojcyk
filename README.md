@@ -7,16 +7,19 @@
   <img align="left" alt="rojcyk's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<br />
+<br />
+
 _I'm Denis Rojcyk. I'm a designer who knows how to code a bit. And ever since I learned to do so, I become obsessed about improving the design / development process._
 
 
-**🔖 Latest articles**
+**Latest articles**
 
 - [What I learned creating my first Figma plugin](https://rojcyk.com/blog/what-i-learned-creating-my-first-figma-plugin/)
 - [How we redesigned our mobile apps without anyone noticing](https://rojcyk.com/blog/how-we-redesigned-kiwicom-apps)
 - [How we handle Kiwi.com's design system with Figma](https://rojcyk.com/blog/how-we-handle-kiwicom-design-system-with-figma)
 
-**💾 Plugins & Templates**
+**Plugins & Templates**
 
 - [Viewports](https://www.figma.com/community/plugin/732240841094697441/Viewports): Figma plugin that helps you to see the market share of the viewport you are designing for.
 - [FigmaIO](https://github.com/rojcyk/figmaIO): small JS library to make communication between Figma and your plugin UI easier.
